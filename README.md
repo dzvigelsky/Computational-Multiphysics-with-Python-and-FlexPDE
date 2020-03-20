@@ -40,7 +40,7 @@ Tip Displacement in y-direction
 Temperature Contour
 
 # Other Plots
-Running the file `MultimorphResonatorSim` will produce additional contours, vector fields, and plots such as:
+Running the file `MultimorphResonatorSim.pde` will produce additional contours, vector fields, and plots such as:
 * Voltage 
 * Current Density
 * Heat Flux Density
