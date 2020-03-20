@@ -1,5 +1,7 @@
 Optimizing for the the maximum allowed Voltage that produces a 100 degree temperature within a multi-morph thermal resonator.
 
+Generate Raw Data and Plots using `FlexPDE`, and grid-search for maximum voltage using `Python`.
+
 Given a range of 0.06 [V] to 0.1 [V], the python script output is:
 
 ```
