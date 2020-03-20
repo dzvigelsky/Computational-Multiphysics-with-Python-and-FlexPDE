@@ -26,5 +26,5 @@ Temp       Volts
 171.67691161       0.098
 177.93062348       0.100
 
-The maximum Voltage was  0.072 [V] which caused a temperature of:  101.87141917
+The maximum Voltage was  0.072 [V] which caused a temperature of:  101.87141917 [degrees C]
 ```
